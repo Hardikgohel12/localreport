@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+THis is main2
+=======
 this is main
+>>>>>>> main
